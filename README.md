@@ -240,4 +240,9 @@ Il ne doit pas être utilisé tel quel dans un environnement de production.
 
 # Auteur
 
-Projet réalisé dans le cadre d'un apprentissage pratique de l'administration système et de l'environnement **Active Directory**.
+ODJEKE N'bango Thiery
+
+Administrateur systèmes et réseaux en formation.
+
+- GitHub : https://github.com/nbangodjeke
+- LinkedIn : www.linkedin.com/in/n-bango-thiery-odjeke-644ba8310
