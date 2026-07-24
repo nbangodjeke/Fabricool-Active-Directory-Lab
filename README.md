@@ -166,7 +166,7 @@ Configuration minimale :
 ```
 RAM : 16 GB
 CPU : 4 à 8 cœurs
-Stockage : 50 GB minimum
+Stockage : 80 GB minimum
 ```
 
 ---
